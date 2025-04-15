@@ -7,6 +7,7 @@ solucion <- function() {
   s <- a + b
   s <- s + a
   s <- s + 5
+  s <- s + 2
   a <- 10
   return(s)
 }
